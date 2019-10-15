@@ -79,6 +79,7 @@ cask "tableplus"
 cask "balenaetcher"
 cask "alfred"
 cask "airfoil"
+cask "font-hack-nerd-font"
 mas "Bear", id: 1091189122
 mas "Calcbot", id: 931657367
 mas "GarageBand", id: 682658836
