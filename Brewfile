@@ -9,6 +9,7 @@ tap "homebrew/services"
 tap "vitorgalvao/tiny-scripts"
 tap "wagoodman/dive"
 brew "ansible"
+brew "b2-tools"
 brew "bash"
 brew "ctags"
 brew "curl"
@@ -81,6 +82,7 @@ cask "balenaetcher"
 cask "alfred"
 cask "airfoil"
 cask "font-hack-nerd-font"
+cask "hammerspoon"
 mas "Bear", id: 1091189122
 mas "Calcbot", id: 931657367
 mas "GarageBand", id: 682658836
