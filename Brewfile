@@ -84,6 +84,7 @@ cask "font-hack-nerd-font"
 cask "hammerspoon"
 cask "slack"
 cask "zoomus"
+cask "keybase"
 mas "Bear", id: 1091189122
 mas "Calcbot", id: 931657367
 mas "GarageBand", id: 682658836
