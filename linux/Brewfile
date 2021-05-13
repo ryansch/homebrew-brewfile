@@ -5,6 +5,7 @@ brew "gh"
 brew "git-delta"
 brew "git-lfs"
 brew "hub"
+brew "mosh", args: ["HEAD"]
 brew "ripgrep"
 brew "starship"
 brew "outstand/desk/desk"
