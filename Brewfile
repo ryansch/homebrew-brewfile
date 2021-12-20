@@ -30,7 +30,6 @@ brew "dnsmasq", restart_service: true
 brew "docker-credential-helper", link: false
 brew "dos2unix"
 brew "duck"
-brew "earthly"
 brew "envconsul"
 brew "exa"
 brew "exercism"
@@ -101,7 +100,6 @@ brew "tylerbrock/saw/saw"
 brew "vitorgalvao/tiny-scripts/cask-repair"
 brew "wagoodman/dive/dive"
 cask "1password"
-cask "adoptopenjdk"
 cask "airfoil"
 cask "alfred"
 cask "arduino"
@@ -143,16 +141,14 @@ cask "soundsource"
 cask "spotify"
 cask "steam"
 cask "tableplus"
+cask "temurin"
 cask "transmission"
-cask "virtualbox"
-cask "virtualbox-extension-pack"
 cask "viscosity"
 cask "vlc"
 cask "zoom"
 mas "Bear", id: 1091189122
 mas "Calcbot", id: 931657367
 mas "CARROT Weather", id: 993487541
-mas "Elisi", id: 1406239881
 mas "GarageBand", id: 682658836
 mas "GIPHY CAPTURE", id: 668208984
 mas "iFlicks", id: 408937559
