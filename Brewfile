@@ -148,7 +148,6 @@ mas "Calcbot", id: 931657367
 mas "CARROT Weather", id: 993487541
 mas "GarageBand", id: 682658836
 mas "GIPHY CAPTURE", id: 668208984
-mas "iFlicks", id: 408937559
 mas "iFlicks 2", id: 731062389
 mas "Keynote", id: 409183694
 mas "Kindle", id: 405399194
