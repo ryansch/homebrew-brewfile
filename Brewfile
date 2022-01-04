@@ -17,6 +17,7 @@ tap "wagoodman/dive"
 brew "ansible"
 brew "ansible-lint"
 brew "asciinema"
+brew "python@3.9"
 brew "awscli"
 brew "b2-tools"
 brew "bash"
@@ -29,14 +30,13 @@ brew "dialog"
 brew "dnsmasq", restart_service: true
 brew "docker-credential-helper", link: false
 brew "dos2unix"
-brew "duck"
 brew "envconsul"
 brew "exa"
 brew "exercism"
 brew "fd"
-brew "fzf"
 brew "libbluray"
 brew "fontforge"
+brew "fzf"
 brew "gh"
 brew "ghi"
 brew "gifski"
@@ -46,7 +46,6 @@ brew "git-lfs"
 brew "gnupg"
 brew "gptfdisk"
 brew "graphviz"
-brew "grv"
 brew "httpie"
 brew "hub"
 brew "jq"
@@ -54,7 +53,6 @@ brew "kubernetes-cli"
 brew "libaacs"
 brew "libbdplus"
 brew "libdvdcss"
-brew "luajit", args: ["HEAD"]
 brew "mas"
 brew "minikube"
 brew "mitmproxy"
@@ -107,12 +105,14 @@ cask "alfred"
 cask "arduino"
 cask "balenaetcher"
 cask "bartender"
+cask "battle-net"
 cask "brave-browser"
 cask "chrysalis"
 cask "cloudflare-warp"
 cask "dash"
 cask "discord"
 cask "docker-edge"
+cask "dropbox"
 cask "firefox"
 cask "font-hack-nerd-font"
 cask "google-chrome"
@@ -129,6 +129,7 @@ cask "linear-linear"
 cask "makemkv"
 cask "multipass"
 cask "ngrok"
+cask "notion"
 cask "obsidian"
 cask "paw"
 cask "plex"
@@ -148,9 +149,11 @@ cask "zoom"
 mas "Bear", id: 1091189122
 mas "Calcbot", id: 931657367
 mas "CARROT Weather", id: 993487541
+mas "Flighty", id: 1358823008
 mas "GarageBand", id: 682658836
 mas "GIPHY CAPTURE", id: 668208984
 mas "iFlicks 2", id: 731062389
+mas "iMovie", id: 408981434
 mas "Keynote", id: 409183694
 mas "Kindle", id: 405399194
 mas "MetaDoctor Pro", id: 992000603
@@ -160,7 +163,9 @@ mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
 mas "Paprika Recipe Manager 3", id: 1303222628
 mas "Parcel", id: 639968404
+mas "Pi-hole Remote", id: 1515445551
 mas "Pixelmator", id: 407963104
+mas "Pixelmator Pro", id: 1289583905
 mas "Playgrounds", id: 1496833156
 mas "Spark", id: 1176895641
 mas "Todoist", id: 585829637
